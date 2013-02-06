@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://jurishot.github.com/sitemap.xml 
+Sitemap: http://antimono.github.com/sitemap.xml 
